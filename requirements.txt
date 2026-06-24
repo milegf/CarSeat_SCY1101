@@ -8,3 +8,4 @@ seaborn
 dash
 plotly
 pyngrok
+scikit-learn
